@@ -1,0 +1,1 @@
+Installed Portable Git: https://github.com/git-for-windows/git/releases
